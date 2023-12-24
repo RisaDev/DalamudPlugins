@@ -1,0 +1,24 @@
+[
+	{
+		"Author": "Risa",
+		"Name": "Fantasia+",
+		"Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
+		"Punchline": "Customize your character beyond FFXIV's limitations.",
+		"InternalName": "FantasiaPlus",
+		"AssemblyVersion": "0.0.9.0",
+		"TestingAssemblyVersion": "0.0.9.0",
+		"RepoUrl": "https://github.com/RisaDev/FantasiaPlus",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 9,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://github.com/RisaDev/FantasiaPlus/releases/latest/download/FantasiaPlus.zip",
+		"DownloadLinkTesting": "https://github.com/RisaDev/FantasiaPlus/releases/latest/download/FantasiaPlus.zip",
+		"DownloadLinkUpdate": "https://github.com/RisaDev/FantasiaPlus/releases/latest/download/FantasiaPlus.zip",
+		"IconUrl": "https://raw.githubusercontent.com/RisaDev/FantasiaPlus/main/Data/icon.png",
+		"Changelog": "Release 0.0.9.0 - First public testing build"
+	}
+]
